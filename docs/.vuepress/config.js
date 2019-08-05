@@ -1,5 +1,4 @@
 ﻿module.exports = {
-    base:'/myPage/',
     title:'朱英',
     description:'专注于记录技术点滴',
     themeConfig: {
@@ -7,7 +6,7 @@
             {text: 'Android', link: '/android/'},
             {text: 'Flutter', link: '/flutter/'},
             {text: '其他', link: '/other/'},
-            {text: 'Github', link: 'https://github.com/kingkadienm'},
+            {text: 'Github', link: 'https://github.com/ZhuY0606'},
         ],
         sidebar: {
             '/android/': [
