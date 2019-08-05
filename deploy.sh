@@ -1,18 +1,18 @@
-# È·±£½Å±¾Å×³öÓöµ½µÄ´íÎó
+# ç¡®ä¿è„šæœ¬æŠ›å‡ºé‡åˆ°çš„é”™è¯¯
 set -e
-# Éú³É¾²Ì¬ÎÄ¼ş
+# ç”Ÿæˆé™æ€æ–‡ä»¶
 npm run build
-# ½øÈëÉú³ÉµÄÎÄ¼ş¼Ğ
+# è¿›å…¥ç”Ÿæˆçš„æ–‡ä»¶å¤¹
 cd docs/.vuepress/dist
 
 git init
 git add -A
 git commit -m 'update'
 
-# Èç¹ûÄãÏëÒª²¿Êğµ½ https://USERNAME.github.io
+# å¦‚æœä½ æƒ³è¦éƒ¨ç½²åˆ° https://USERNAME.github.io
 #git push -f git@github.com:ZhuY0606/ZhuY0606.github.io.git master
 
-# Èç¹û·¢²¼µ½ https://USERNAME.github.io/<REPO>  REPO=githubÉÏµÄÏîÄ¿
- git push -f git@github.com:ZhuY0606/<my-profile>.git master:gh-pages
+# å¦‚æœå‘å¸ƒåˆ° https://USERNAME.github.io/<REPO>  REPO=githubä¸Šçš„é¡¹ç›®
+ git push -f git@github.com:ZhuY0606/my-profile.git master:gh-pages
 
-cd ¨C
+cd â€“
