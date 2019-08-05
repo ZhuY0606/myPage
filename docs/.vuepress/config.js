@@ -5,8 +5,6 @@
         nav: [
             {text: 'Android', link: '/android/'},
             {text: 'Flutter', link: '/flutter/'},
-   {text: 'Flutter', link: '/flutter/'},
-   {text: 'Flutter', link: '/flutter/'},
             {text: '其他', link: '/other/'},
             {text: 'Github', link: 'https://github.com/ZhuY0606'},
         ],
