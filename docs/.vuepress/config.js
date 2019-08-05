@@ -1,7 +1,7 @@
 ﻿module.exports = {
-    base：'/myPage/'
-    title: '朱英',
-    description: '专注于记录技术点滴',
+    base:'/myPage/',
+    title:'朱英',
+    description:'专注于记录技术点滴',
     themeConfig: {
         nav: [
             {text: 'Android', link: '/android/'},
