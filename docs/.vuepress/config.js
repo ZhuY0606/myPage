@@ -1,5 +1,5 @@
 ﻿module.exports = {
-base："/<my-profile>/"，
+    base：'/my-profile/,
     title: '朱英',
     description: '专注于记录技术点滴',
     themeConfig: {
