@@ -19,10 +19,9 @@ import android.os.Parcelable;
 
 /**
  * @Description:
- * @Author:  wangzs
+ * @Author:  zhuy
  * @Date:    2019-07-31 10:42
  * @Version:
- * @Email    wangzs@yuntongxun.com
  */
 public class User implements Parcelable {
 
